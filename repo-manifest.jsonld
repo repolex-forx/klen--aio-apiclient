@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/klen/aio-apiclient/commit/486a80a0bd028786f148003b8aca4e3b35b1e2b4",
       "git:hexsha": "486a80a0bd028786f148003b8aca4e3b35b1e2b4",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T21:17:10.383225+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/aio-apiclient/commit/ad996ebdeab2e1120cf88e80d967142c3a842cc8",
